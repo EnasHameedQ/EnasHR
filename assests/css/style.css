@@ -434,9 +434,7 @@ justify-content: flex-start;
         color: black;
     }
     
-    #slider .card1:hover {
-        background-color: #FCC01A;
-    }
+   
     
     #slider a {
         color: #3C102D;
@@ -493,22 +491,7 @@ background-color: #ea630d;
         transition: opacity .6s ease;
     }
     
-    #slider .card1 {
-        text-align: center;
-        border-radius: 0.25rem;
-        float: none;
-        margin: 15px;
-        margin-bottom: 20px;
-        padding: 5px;
-        padding-bottom: 10px;
-        display: inline-block;
-        clear: both;
-        background-color: #fff;
-        /*menu background #f5f4f7*/
-        width: 200px;
-        height: 200px;
-    }
-    
+  
     #slider.carousel-item {
         margin-top: 20px;
         margin-bottom: 40px;
@@ -549,38 +532,7 @@ background-color: #ea630d;
         padding: 5px;
     }
     /* end ads $ componies */
-    
-    .card {
-        float: none;
-        clear: both;
-        margin-right: 10px;
-        padding: 5px;
-        display: inline-block;
-        background-color: #fff;
-        /**/
-        width: 150px;
-        height: 150px;
-        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-        /*transform: rotate(45deg);*/
-    }
-    
-    .card-img-top {
-        padding-bottom: 2px;
-        height: 90px;
-        width: 90px;
-        align-items: center;
-        overflow: auto;
-    }
-    
-    .card-text {
-        margin-top: 2px;
-        margin-bottom: 5px;
-        color: #6A164A;
-        /*بنفسجي  غامق*/
-        font-size: 16px;
-        text-decoration: none;
-    }
-    
+ 
     a {
         text-decoration: none;
     }
@@ -589,53 +541,7 @@ background-color: #ea630d;
         text-decoration: none;
     }
     
-    .card-text:last-child {
-        margin-bottom: 10px;
-        text-decoration: none;
-    }
-    
-    .card:hover {
-        background-color: #FCC01A;
-    }
-    
-    #slider .card1:hover {
-        background-color: #FCC01A;
-    }
-    
-    .card2:hover {
-        background-color: #FCC01A;
-    }
-    
-    .card1 {
-        text-align: center;
-        border-radius: 0.25rem;
-        float: none;
-        margin: 15px;
-        padding: 5px;
-        display: inline-block;
-        clear: both;
-        background-color: #fff;
-        /*menu background #f5f4f7*/
-        width: 140px;
-        height: 140px;
-    }
-    
-    .card1-img-top {
-        padding-bottom: 5px;
-        height: 100px;
-        width: 100px;
-        align-items: center;
-        overflow: auto;
-    }
-    
-    .card1-text {
-        margin-top: 2px;
-        margin-bottom: 10px;
-        color: #6A164A;
-        /*بنفسجي  غامق*/
-        font-size: 16px;
-    }
-    
+  
     .btn.btn-warning {
         margin-top: -10px;
         width: auto;
@@ -645,7 +551,7 @@ background-color: #ea630d;
         padding: 3px;
         border: 1px solid #3C102D;
     }
-    /* end of all cards  */
+    /* end of   */
     /* start of track & edu container */
     
     #edutrack {
@@ -676,43 +582,7 @@ background-color: #ea630d;
         flex-wrap: wrap;
     }
     
-    .card2 {
-        text-align: center;
-        border-radius: 0.25rem;
-        float: none;
-        margin: 15px;
-        padding: 5px;
-        display: inline-block;
-        clear: both;
-        background-color: #fff;
-        /*menu background #f5f4f7*/
-        width: 180px;
-        height: 180px;
-    }
-    
-    .card2-img-top {
-        padding-bottom: 5px;
-        height: 65px;
-        width: 65px;
-        align-items: center;
-        overflow: auto;
-    }
-    
-    .card2-text {
-        margin-top: 2px;
-        margin-bottom: 10px;
-        color: #6A164A;
-        /*بنفسجي  غامق*/
-        font-size: 16px;
-    }
-    
-    .cardname2 {
-        color: #3C102D;
-        font-size: 14px;
-        font-weight: bold;
-        margin-bottom: -5px;
-    }
-    
+  
     .btn.btn-warning {
         margin-top: 0px;
         margin-bottom: 15px;
