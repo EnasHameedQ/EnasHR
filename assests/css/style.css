@@ -54,7 +54,6 @@ a span:hover {
 /*scroll */
 
 section {
-    height: 100vh;
     overflow: hidden;
     margin: 100px 0px 0px 0px;
 }
