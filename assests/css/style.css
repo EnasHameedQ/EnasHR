@@ -60,6 +60,7 @@ section {
 }
 
 .active {
+    color: #fff;
     background-color: var(--primery);
 }
 
