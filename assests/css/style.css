@@ -1064,3 +1064,58 @@ input.form-control {
 .bd-placeholder-img-lg {
     font-size: 3.5rem;
 }
+
+#tool>#set {
+    padding-right: 80px;
+    padding-left: 10px;
+    float: right;
+    clear: both;
+    direction: rtl;
+}
+
+#tool>#set a {
+    display: block;
+    color: #3C102D;
+    font-size: 18px;
+    margin-top: 15px;
+    cursor: pointer;
+    float: right;
+    clear: both;
+}
+
+#tool>#set a:hover {
+    color: #E63916;
+}
+
+#tool>#set .Underline {
+    color: #dadada;
+    width: 500px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+label {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+    margin-top: 5px;
+}
+
+.switch {
+    position: absolute;
+    display: inline-block;
+    width: 60px;
+    height: 34px;
+    /* margin-right: 200px; */
+    /* margin-left: 200px; */
+    margin-top: -15px;
+    /* float: left; */
+    clear: both;
+    right: 530px;
+    direction: rtl;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
