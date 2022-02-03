@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --bs-blue: #0d6efd;
+
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #d63384;
@@ -202,11 +202,10 @@ sup {
 }
 
 a {
-  color: #0d6efd;
-  text-decoration: underline;
+
 }
 a:hover {
-  color: #0a58ca;
+
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
